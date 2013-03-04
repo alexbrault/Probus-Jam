@@ -4,6 +4,7 @@ At the beginning of the competition, each team received a pair of randomly gener
 #### Styles
 * Shooter
 * Strategy
+
 #### Themes
 * Jungle
 * Post-apocalyptic
